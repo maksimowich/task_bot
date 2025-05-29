@@ -14,9 +14,9 @@ import (
 )
 
 var (
-	WebhookURL = "https://user267708934-3ukxjldt.tunnel.vk-apps.com/"
+	WebhookURL = ""
 	BotPort    = "8081"
-	BotToken   = "8051195684:AAGLEifGRF2T87GFk9WDnZEArSZRMK6mkN0"
+	BotToken   = ""
 )
 
 func startTaskBot(ctx context.Context) error {
